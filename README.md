@@ -2,6 +2,8 @@
 
 First repository. 
 
+----------------------------------------------------------------------------------------------------
+
 Hey y'all!
 
 Not gonna lie, I am a beginner at all this, even programming in general. Also not good at
