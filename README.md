@@ -4,7 +4,7 @@ First repository.
 
 ----------------------------------------------------------------------------------------------------
 
-Hey y'all!
+Hey y'all,
 
 Not gonna lie, I am a beginner at all this, even programming in general. Also not good at
 introducing myself. I suppose I will start with topics of interest. I am working on learning C++, C#,
